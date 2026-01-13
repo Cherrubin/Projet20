@@ -1,1 +1,1 @@
-Ce projet vise à comparer plusieurs approches de machine learning pour prédire des métriques liées à COVID-19.L’objectif est d’évaluer les performances, la robustesse et l’utilité des modèles tout en favorisant la reproductibilité et l’éthique des données.
+Ce projet vise à comparer plusieurs approches de machine learning pour prédire des métriques liées au risque du COVID-19. L’objectif est d’évaluer les performances, la robustesse et l’utilité des modèles tout en favorisant la reproductibilité et l’éthique des données.
