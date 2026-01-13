@@ -1,1 +1,1 @@
-Ce projet vise a predire le risque de developper le coronavirus a l'aide des modeles de Machine Learning.
+Ce projet vise à comparer plusieurs approches de machine learning pour prédire des métriques liées à COVID-19.L’objectif est d’évaluer les performances, la robustesse et l’utilité des modèles tout en favorisant la reproductibilité et l’éthique des données.
